@@ -1,0 +1,12 @@
+OFICINA MOTO — PACOTE PARA HOSPEDAGEM
+
+Este pacote está pronto para ser publicado como site estático com suporte a PWA.
+
+1. Extraia todos os arquivos mantendo as pastas.
+2. Envie o conteúdo desta pasta para um serviço de hospedagem de site estático que forneça HTTPS.
+3. Abra o endereço HTTPS no Chrome do Android.
+4. No menu ⋮ do Chrome, escolha “Instalar app” ou “Adicionar à tela inicial” (o nome pode variar).
+
+O HTML continua sendo a tecnologia interna do aplicativo web; o manifest e o service worker permitem instalação e cache offline após a primeira visita.
+
+IMPORTANTE SOBRE OS DADOS: teste primeiro com dados fictícios. Os registros atuais podem estar salvos no armazenamento local do navegador/dispositivo e não são transferidos automaticamente para outro endereço ou aparelho. Faça uma cópia de segurança antes de trocar de versão ou limpar dados do navegador. Este pacote não inclui servidor nem banco de dados online sincronizado.
